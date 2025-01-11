@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "351b61e0-0dc6-43e4-b310-08a261ff4d1d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 86.36 50.8)
+		(size 25.4 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0ec2d9b4-4170-4d37-8132-2b56b27a6a96")
+		(property "Sheetname" "H750_Core"
+			(at 86.36 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "H750_Core.kicad_sch"
+			(at 86.36 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32H750VBT6_Minimalistic_Design"
+				(path "/351b61e0-0dc6-43e4-b310-08a261ff4d1d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 81.28)
+		(size 25.4 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3473c785-0568-4b87-a0c7-8161e1d97663")
+		(property "Sheetname" "H750_QSPI"
+			(at 86.36 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "H750_QSPI.kicad_sch"
+			(at 86.36 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32H750VBT6_Minimalistic_Design"
+				(path "/351b61e0-0dc6-43e4-b310-08a261ff4d1d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 50.8)
+		(size 25.4 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4daed595-e717-4d07-89d9-18e97ee7807f")
+		(property "Sheetname" "H750_FS_USB"
+			(at 215.9 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FS_USB.kicad_sch"
+			(at 215.9 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32H750VBT6_Minimalistic_Design"
+				(path "/351b61e0-0dc6-43e4-b310-08a261ff4d1d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 50.8)
+		(size 25.4 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94e4fc2a-4ac1-4988-8be0-25101d17fbfa")
+		(property "Sheetname" "Ethernet"
+			(at 160.02 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "H750_Ethernet.kicad_sch"
+			(at 160.02 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32H750VBT6_Minimalistic_Design"
+				(path "/351b61e0-0dc6-43e4-b310-08a261ff4d1d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
